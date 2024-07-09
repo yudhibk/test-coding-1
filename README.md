@@ -1,2 +1,3 @@
-# test-interview1
-test-interview1
+# Test Coding Challenge 1
+Simple Client (FE) = Using React via Vite
+Simple Server (BE) = Using NestJS (Express) + PostgreSQL
