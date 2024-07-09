@@ -1,0 +1,31 @@
+.register-container {
+  display: block;
+  width: 100%;
+  padding: 0 3rem;
+}
+
+h2 {
+  margin-bottom: 1.5rem;
+  font-weight: bold;
+}
+
+label {
+  margin: 1rem 0 .5rem 0;
+}
+
+.input-kolom, button {
+  border: 2px solid #000;
+  border-radius: 5px;
+  width: 100%;
+}
+
+button.btn-register {
+  margin: 1.5rem 0;
+  background-color: var(--background-color-opposite);
+  color: var(--font-color-opposite);
+}
+
+a.link-login {
+  color: var(--font-color);
+  font-weight: 600;
+}

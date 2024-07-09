@@ -1,0 +1,25 @@
+nav.nav-atas {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  border-bottom: 1px solid var(--border-color);
+  padding: .75rem 1.125rem;
+  gap: 1rem;
+}
+
+nav.nav-atas ul {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  align-items: center;
+  gap: .5rem;
+  margin-left: auto;
+}
+
+nav.nav-atas ul li > * {
+  display: flex;
+}
+
+button.burgermenu {
+  width: auto;
+}
